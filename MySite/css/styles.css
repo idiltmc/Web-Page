@@ -1,0 +1,176 @@
+body{
+    background-color: #CBF1F5;
+    
+    font-family: sans-serif;
+    text-align: center;
+}
+.computerImg{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+
+
+.spotify{
+    width: 8%;
+    height: 8%;
+
+}
+
+.sea{
+    width: 150%;
+    height: 220px;
+    position: relative;
+    right: 200px;
+    bottom: 50px;
+    padding: 0;
+
+}
+
+.floated-imgs{
+    float: right;
+}
+.binary{
+    width: 20%;
+    height: 20%;
+}
+.upCloud{
+    position: absolute;
+    left: 46%;
+    bottom: 80%;
+    width: 100px;
+    height: 100px;
+}
+
+.skill-row{
+    margin: auto;
+    width: 40%;
+}
+.downCloud{
+    position: absolute;
+    left: 30%;
+    
+
+}
+
+.btn {
+  background: #34dbb7;
+  background-image: -webkit-linear-gradient(top, #34dbb7, #34dbb7);
+  background-image: -moz-linear-gradient(top, #34dbb7, #34dbb7);
+  background-image: -ms-linear-gradient(top, #34dbb7, #34dbb7);
+  background-image: -o-linear-gradient(top, #34dbb7, #34dbb7);
+  background-image: linear-gradient(to bottom, #34dbb7, #34dbb7);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+h1{
+    
+    font-family: 'Itim', cursive;
+    font-size: 5rem;
+}
+
+.profilePic{
+    height: 15%;
+    width: 15%;
+    padding: 50px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.cloud{
+    position: relative;
+    bottom:450px;
+    right: 100px;
+}
+
+.cloudRight{
+    position: relative;
+    bottom:400px;
+    left: 100px;
+}
+.subtext{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+.programmingImg{
+    margin: 0 auto 0 auto;
+    position: relative;
+    height: 250px;
+    width: 250px;
+}
+.top-container{
+    padding: 0;
+    padding-top: 50px;
+    height: 620px;
+    
+    text-align: center;
+}    
+
+.middle-container{
+
+
+    
+    background-color:#E3FDFD;
+    padding-bottom: 100px;
+    
+}
+.bottom-container{
+
+    padding-top: 50px;
+    border-bottom: none;
+
+}
+.para1{
+    line-height: 40px;
+}
+
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
+    position: absolute;
+
+
+}
+.contact-me{
+    padding-bottom: 50px;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: absolute;
+    left: 208px;
+    top: 208px;;
+    
+
+}
+
+.box3{
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+    position: absolute;
+    left: 408px;
+    top: 408px;
+
+
+}
